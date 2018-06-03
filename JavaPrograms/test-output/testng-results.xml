@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[All Test Finished[Lorg.testng.ITestNGMethod;@42d80b78]]>
+    </line>
+    <line>
+      <![CDATA[Staring TestParameter1.f(java.lang.String)[pri:0, instance:generalprograms.Parameter1@51efea79]]]>
+    </line>
+    <line>
+      <![CDATA[Test successParameter1.f(java.lang.String)[pri:0, instance:generalprograms.Parameter1@51efea79]]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55" started-at="2018-05-22T11:34:37Z" finished-at="2018-05-22T11:34:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="55" started-at="2018-05-22T11:34:37Z" finished-at="2018-05-22T11:34:37Z">
+      <class name="generalprograms.Parameter1">
+        <test-method status="PASS" signature="f(java.lang.String)[pri:0, instance:generalprograms.Parameter1@51efea79]" name="f" duration-ms="13" started-at="2018-05-22T11:34:37Z" finished-at="2018-05-22T11:34:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Staring TestParameter1.f(java.lang.String)[pri:0, instance:generalprograms.Parameter1@51efea79]]]>
+            </line>
+            <line>
+              <![CDATA[Test successParameter1.f(java.lang.String)[pri:0, instance:generalprograms.Parameter1@51efea79]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- generalprograms.Parameter1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
