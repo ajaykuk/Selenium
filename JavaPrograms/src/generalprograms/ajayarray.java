@@ -2,6 +2,8 @@ package generalprograms;
 
 import java.util.Scanner;
 
+
+//This is my 2nd commit.
 public class ajayarray {
 
 	public static void main(String[] args) {
